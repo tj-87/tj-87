@@ -1,5 +1,10 @@
 
-S# Hi, I'm Thiago!
+Hi 👋 My name is Thiago
+==========================
+
+
+-----------------------------
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tj-87)](https://github.com/tj-87)
