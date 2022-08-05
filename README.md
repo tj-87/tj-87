@@ -3,8 +3,7 @@ S# Hi, I'm Thiago!
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tj-87)](https://github.com/tj-87)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkwww.linkedin.com/in/thiago-jose-react-developer/)](www.linkedin.com/in/thiago-jose-react-developer/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-jose-react-developer)](https://www.linkedin.com/in/thiago-jose-react-developer)
 
 ## About me:
 
